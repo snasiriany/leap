@@ -11,16 +11,11 @@ tmp*.py
 *.idea
 railrl/bin/
 railrl/.idea/
-examples/#ddpg_cheetah.here.py#
-examples/tmp.yml
 *.npy
 *.ipynb
 *.prof
 railrl/launchers/config.py
-experiments/murtaza/colinestuff/mesh/
-experiments/murtaza/colinestuff/textures/
-experiments/ashvin/nips2018
-*/*/mjkey.txt
+*/mjkey.txt
 */*/.mujoco
 *.jpg
 *.img
