@@ -5,7 +5,7 @@ This is the codebase for Latent Embeddings for Abstracted Planning (LEAP), from 
 **Planning with Goal Conditioned Policies** 
 <br> Soroush Nasiriany*, Vitchyr Pong*, Steven Lin, Sergey Levine 
 <br> Neural Information Processing Systems 2019
-<br> Arxiv (Coming soon!) | [Website](https://sites.google.com/view/goal-planning/)
+<br> [Arxiv](https://arxiv.org/abs/1911.08453) | [Website](https://sites.google.com/view/goal-planning/)
 
 This guide contains information about (1) [Installation](#installation), (2) [Experiments](#experiments), and (3) [Setting up Your Own Environments](#setting-up-your-own-environments).
 
